@@ -1,6 +1,6 @@
 BairesDev - Machine Learning Practitioner
 
-Projeto para redução de dimensionalidade em imagens.
+Cálculo de Métricas de Avaliação de Aprendizado
 
 Versão do python utilizada = 3.10.4
 
